@@ -1,0 +1,6 @@
+Type,Name,Sex,Age,TimeAtFacility,Breed,Weight,Color,Size,Healthy
+Bird,Tweety,M,2,8.30,Macaw,1.20,Red,Large,true
+Bird,Lucky,F,1,4.50,Canary,0.05,Yellow,Small,true
+Bird,Chirpy,M,3,10.20,Finch,0.02,Green,Small,true
+Bird,Sassy,F,5,15.40,Cockatoo,0.90,White,Large,true
+Bird,Kiwi,M,2,6.80,Budgerigar,0.03,Blue,Small,true

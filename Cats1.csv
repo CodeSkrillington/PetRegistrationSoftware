@@ -1,0 +1,6 @@
+Type,Name,Sex,Age,TimeAtFacility,Breed,Feral,Fixed,Weight,Microchipped,ChipNum,Color
+Cat,Milo,M,3,12.50,Siamese,false,false,4.20,true,123456789,Cream
+Cat,Oliver,M,2,8.70,Maine Coon,false,false,6.50,false,0,Brown
+Cat,Simba,M,4,14.20,Bengal,false,false,5.10,true,456789123,Golden
+Cat,Chloe,F,3,10.00,Sphynx,false,false,3.00,true,321098765,Gray
+Cat,Leo,M,6,18.40,Abyssinian,false,true,4.50,true,654321987,Rust

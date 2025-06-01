@@ -1,0 +1,7 @@
+Type,Name,Sex,Age,TimeAtFacility,Breed,Aggressive,Fixed,Weight,Microchipped,ChipNum,Color
+Dog,Charlie,M,7,30.10,Poodle,false,true,8.20,true,987654321,White
+Dog,Lola,F,4,10.00,German Shepherd,false,false,30.00,true,456789123,Grey
+Dog,Molly,F,6,25.30,Bulldog,true,true,22.50,false,0,Golden
+Dog,Rocky,M,2,12.40,Boxer,false,false,28.00,true,345678901,Brindle
+Dog,Max,M,8,22.10,Schnauzer,false,true,16.00,true,234567890,Black
+Dog,Bella,F,4,18.50,Cocker Spaniel,false,false,12.50,true,789012345,Golden

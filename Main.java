@@ -1,8 +1,4 @@
 /*
-Jesse Singleton
-5/29/2025
-CS 123
-
 Test Data:
 -Tested facility creation, animal addition, adoption, and surrender.
 - Tested animal listing and searching functionalities.

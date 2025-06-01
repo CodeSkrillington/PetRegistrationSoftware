@@ -1,8 +1,3 @@
-/*
-Jesse Singleton
-5/29/2025
-CS 123
- */
 
 
 public class Animal
